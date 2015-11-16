@@ -1,4 +1,4 @@
-import { sentence1 } from '../app/template-literals';
+import { sentence1 } from '../src/template-literals';
 
 describe('Template Literals', function () {
 
