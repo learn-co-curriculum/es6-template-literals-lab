@@ -1,0 +1,10 @@
+languages:
+  - javascript
+tags:
+  - template literals
+  - strings
+  - interpolation
+  - multi-line
+type: 
+  - lab
+resources: 1
