@@ -17,4 +17,4 @@ Write the correct syntax for string interpolation in ES6.
 5. Run tests `npm run learn`
 6. Write your solution code in **src/template-literals.js**. You can view the specs for this lab in **spec/template-literals-spec.js**
 7. Submit a pull request when all tests are passing
-<a href='https://learn.co/lessons/es6-template-literals-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/es6-template-literals-lab' title='ES6 Template Literals Lab'>ES6 Template Literals Lab</a> on Learn.co and start learning to code for free.</p>
